@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently an undergraduate student at NYU studying psychology & economics with a minor in data science
+- 🌱 I’m currently a graduate student studying bBiostatistics at Emory's Rollins School of Public Health
 - 😄 Pronouns: she/her
-- 🐠 Fun fact: Did you know sharks have been around longer than trees have? From my childhood dreams of becoming a marine biologist, I'm also deeply interested in marine life and environmentalism. 
+- 🐠 My personal interests are in psychiatric genetics and cancer epidemiology.  
