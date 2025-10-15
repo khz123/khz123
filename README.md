@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently a graduate student studying bBiostatistics at Emory's Rollins School of Public Health
+- 🌱 I’m currently a graduate student studying Biostatistics at Emory's Rollins School of Public Health
 - 😄 Pronouns: she/her
 - 🐠 My personal interests are in psychiatric genetics and cancer epidemiology.  
