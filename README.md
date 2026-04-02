@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently a graduate student studying Biostatistics at Emory's Rollins School of Public Health
-- 😄 Pronouns: she/her
-- 🐠 My personal interests are in psychiatric genetics and cancer epidemiology.  
+- 🔭 I am currently working as a Graduate Research Assistant,conducting end-to-end statistical analyses of real-world hospital
+data, spanning regression, survival, and longitudinal methods
+- 💬 My capstone project evaluates five statistical methods for estimating post-transplant kidney function trajectories in a randomized non-inferiority trial, with a focus on comparing cLDA, unconstrained LDA, and ANCOVA in terms of statistical precision and clinical estimates
